@@ -1,0 +1,1 @@
+export class Fire{constructor(){AOS.init(),new Typed("#typed",{strings:["Software Engineer","Frontend Developer"],typeSpeed:60,loop:!0,backSpeed:60,smartBackspace:!1}),$(document).ready(function(){$(".owl-carousel").owlCarousel({items:1,loop:!0,smartSpeed:200})})}}
